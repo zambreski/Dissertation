@@ -11,7 +11,7 @@ DEFAULT. Apply no irrigation to any grid cell.
 
 opt_irrig = 1,
 
-Set top two soil layers to field capacity at each time step if less than field capacity. If using Noah:Mosaic, it only performs these steps for the fraction of the gridc cell. In Noah-MP, applies to entire grid cell if dominant land use category is irrigated cropland. 
+Only check for dates after May 15. Set top two soil layers to field capacity at each time step if less than field capacity. If using Noah:Mosaic, it only performs these steps for the fraction of the gridc cell. In Noah-MP, applies to entire grid cell if dominant land use category is irrigated cropland. 
 
 ----
 
