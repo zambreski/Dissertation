@@ -1,0 +1,3685 @@
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task            0  of           21
+ starting wrf task            5  of           21
+ starting wrf task           14  of           21
+ starting wrf task           20  of           21
+[mpiexec@agr-2718-pt640] Sending Ctrl-C to processes as requested
+[mpiexec@agr-2718-pt640] Press Ctrl-C again to force abort
+76.76user 5.11system 0:03.93elapsed 2082%CPU (0avgtext+0avgdata 115180maxresident)k
+9792inputs+116600outputs (0major+524259minor)pagefaults 0swaps
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           13  of           21
+ starting wrf task           16  of           21
+ starting wrf task           18  of           21
+ starting wrf task           20  of           21
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task           12  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           17  of           21
+ starting wrf task           19  of           21
+1270481.93user 24636.65system 17:08:13elapsed 2099%CPU (0avgtext+0avgdata 178108maxresident)k
+31539280inputs+240501840outputs (0major+819852859minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            6  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task            5  of           21
+ starting wrf task            7  of           21
+ starting wrf task           20  of           21
+[mpiexec@agr-2718-pt640] Sending Ctrl-C to processes as requested
+[mpiexec@agr-2718-pt640] Press Ctrl-C again to force abort
+806.41user 18.88system 0:39.34elapsed 2097%CPU (0avgtext+0avgdata 116508maxresident)k
+1664inputs+125232outputs (0major+1292028minor)pagefaults 0swaps
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task            0  of           21
+ starting wrf task           20  of           21
+1271126.19user 25284.45system 17:09:16elapsed 2099%CPU (0avgtext+0avgdata 180468maxresident)k
+20138168inputs+242664720outputs (2major+1089219325minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           11  of           21
+ starting wrf task           15  of           21
+ starting wrf task           19  of           21
+ starting wrf task            2  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task           10  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           20  of           21
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 2
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+Command exited with non-zero status 2
+572167.42user 12475.85system 7:44:10elapsed 2099%CPU (0avgtext+0avgdata 169756maxresident)k
+9704040inputs+106678992outputs (69major+547228479minor)pagefaults 0swaps
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            6  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task            0  of           21
+ starting wrf task            5  of           21
+ starting wrf task            7  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           17  of           21
+ starting wrf task           20  of           21
+6164.89user 118.90system 4:59.39elapsed 2098%CPU (0avgtext+0avgdata 130676maxresident)k
+320768inputs+1192752outputs (856major+4471050minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           20  of           21
+ starting wrf task           16  of           21
+ starting wrf task           19  of           21
+1362413.16user 27558.30system 18:23:33elapsed 2099%CPU (0avgtext+0avgdata 189788maxresident)k
+20278384inputs+255960216outputs (1major+994544809minor)pagefaults 0swaps
+ starting wrf task            2  of           20
+ starting wrf task            1  of           20
+ starting wrf task            3  of           20
+ starting wrf task            4  of           20
+ starting wrf task            5  of           20
+ starting wrf task            6  of           20
+ starting wrf task            7  of           20
+ starting wrf task            8  of           20
+ starting wrf task            9  of           20
+ starting wrf task           10  of           20
+ starting wrf task           11  of           20
+ starting wrf task           12  of           20
+ starting wrf task           13  of           20
+ starting wrf task           14  of           20
+ starting wrf task           15  of           20
+ starting wrf task           16  of           20
+ starting wrf task           17  of           20
+ starting wrf task           18  of           20
+ starting wrf task           19  of           20
+ starting wrf task            0  of           20
+1324002.67user 15620.76system 18:36:45elapsed 1999%CPU (0avgtext+0avgdata 182852maxresident)k
+20409688inputs+222731632outputs (2major+803610356minor)pagefaults 0swaps
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           20  of           21
+ starting wrf task            0  of           21
+ starting wrf task            3  of           21
+ starting wrf task           11  of           21
+ starting wrf task           15  of           21
+ starting wrf task           19  of           21
+ starting wrf task            0  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+ starting wrf task            1  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+1383851.60user 28413.71system 18:41:15elapsed 2099%CPU (0avgtext+0avgdata 188132maxresident)k
+20636336inputs+256507248outputs (462major+1100351248minor)pagefaults 0swaps
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task           20  of           21
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           19  of           21
+ starting wrf task           18  of           21
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+Command exited with non-zero status 1
+349224.47user 7006.21system 4:42:50elapsed 2099%CPU (0avgtext+0avgdata 187920maxresident)k
+5683752inputs+68956136outputs (10major+193673020minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            4  of           21
+ starting wrf task            8  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           15  of           21
+ starting wrf task           18  of           21
+ starting wrf task           20  of           21
+ starting wrf task            3  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            9  of           21
+ starting wrf task           14  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           19  of           21
+1365209.86user 27527.28system 18:25:45elapsed 2099%CPU (0avgtext+0avgdata 188368maxresident)k
+20395624inputs+256518856outputs (0major+1078350750minor)pagefaults 0swaps
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           20  of           21
+ starting wrf task            0  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           19  of           21
+[mpiexec@agr-2718-pt640] Sending Ctrl-C to processes as requested
+[mpiexec@agr-2718-pt640] Press Ctrl-C again to force abort
+4965.78user 108.50system 4:01.75elapsed 2098%CPU (0avgtext+0avgdata 128540maxresident)k
+60080inputs+927984outputs (0major+3593240minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            8  of           21
+ starting wrf task           10  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           20  of           21
+ starting wrf task            3  of           21
+ starting wrf task            7  of           21
+ starting wrf task            9  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           19  of           21
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+Command exited with non-zero status 1
+35.71user 3.01system 0:01.88elapsed 2057%CPU (0avgtext+0avgdata 110636maxresident)k
+32inputs+132720outputs (0major+377455minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            7  of           21
+ starting wrf task            9  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task            1  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            8  of           21
+ starting wrf task           10  of           21
+ starting wrf task           13  of           21
+ starting wrf task           20  of           21
+1309838.91user 24576.31system 17:39:28elapsed 2099%CPU (0avgtext+0avgdata 188576maxresident)k
+20448240inputs+256469776outputs (0major+919899224minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task           10  of           21
+ starting wrf task           12  of           21
+ starting wrf task           14  of           21
+ starting wrf task           17  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           11  of           21
+ starting wrf task           13  of           21
+ starting wrf task           16  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+ starting wrf task           15  of           21
+[mpiexec@agr-2718-pt640] Sending Ctrl-C to processes as requested
+[mpiexec@agr-2718-pt640] Press Ctrl-C again to force abort
+1253495.50user 24934.35system 16:54:59elapsed 2099%CPU (0avgtext+0avgdata 188048maxresident)k
+18138584inputs+224973896outputs (786major+794787273minor)pagefaults 0swaps
+[mpiexec@agr-2718-pt640] match_arg (./utils/args/args.c:160): unrecognized argument 8
+[mpiexec@agr-2718-pt640] HYDU_parse_array (./utils/args/args.c:175): argument matching returned error
+[mpiexec@agr-2718-pt640] parse_args (./ui/mpich/utils.c:1609): error parsing input array
+[mpiexec@agr-2718-pt640] HYD_uii_mpx_get_parameters (./ui/mpich/utils.c:1660): unable to parse user arguments
+[mpiexec@agr-2718-pt640] main (./ui/mpich/mpiexec.c:153): error parsing parameters
+Command exited with non-zero status 255
+0.00user 0.00system 0:00.00elapsed 100%CPU (0avgtext+0avgdata 2112maxresident)k
+136inputs+16outputs (1major+87minor)pagefaults 0swaps
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           19  of           21
+ starting wrf task            1  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task           10  of           21
+ starting wrf task           18  of           21
+ starting wrf task            0  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           17  of           21
+ starting wrf task           20  of           21
+1354139.10user 26007.84system 18:15:45elapsed 2099%CPU (0avgtext+0avgdata 188280maxresident)k
+20604896inputs+256491912outputs (7major+889024174minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            2  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           19  of           21
+ starting wrf task            1  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           20  of           21
+1318851.17user 24234.61system 17:46:19elapsed 2099%CPU (0avgtext+0avgdata 188308maxresident)k
+20661296inputs+256476272outputs (871major+786051135minor)pagefaults 0swaps
+ starting wrf task            3  of           10
+ starting wrf task            5  of           10
+ starting wrf task            8  of           10
+ starting wrf task            0  of           10
+ starting wrf task            1  of           10
+ starting wrf task            2  of           10
+ starting wrf task            6  of           10
+ starting wrf task            7  of           10
+ starting wrf task            9  of           10
+ starting wrf task            4  of           10
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+Command exited with non-zero status 1
+1.46user 0.99system 0:00.26elapsed 942%CPU (0avgtext+0avgdata 132628maxresident)k
+8inputs+2576outputs (0major+291588minor)pagefaults 0swaps
+ starting wrf task            1  of           21
+ starting wrf task            4  of           21
+ starting wrf task            6  of           21
+ starting wrf task            8  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task            0  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            5  of           21
+ starting wrf task            7  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           13  of           21
+ starting wrf task           20  of           21
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+Command exited with non-zero status 1
+2.54user 1.26system 0:00.20elapsed 1880%CPU (0avgtext+0avgdata 70128maxresident)k
+0inputs+512outputs (0major+279036minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            7  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+Command exited with non-zero status 1
+0.84user 0.72system 0:00.21elapsed 732%CPU (0avgtext+0avgdata 152640maxresident)k
+0inputs+1352outputs (0major+269167minor)pagefaults 0swaps
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            6  of           21
+ starting wrf task            8  of           21
+ starting wrf task           13  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           19  of           21
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            7  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           18  of           21
+ starting wrf task           20  of           21
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+Command exited with non-zero status 1
+2.51user 1.25system 0:00.20elapsed 1863%CPU (0avgtext+0avgdata 70128maxresident)k
+0inputs+504outputs (0major+278900minor)pagefaults 0swaps
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            4  of            8
+ starting wrf task            0  of            8
+ starting wrf task            3  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+8927.07user 435.44system 20:49.43elapsed 749%CPU (0avgtext+0avgdata 207240maxresident)k
+116973176inputs+20732280outputs (0major+12663873minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           12  of           21
+ starting wrf task           14  of           21
+ starting wrf task           16  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task           11  of           21
+ starting wrf task           13  of           21
+ starting wrf task           15  of           21
+ starting wrf task           17  of           21
+ starting wrf task           20  of           21
+1435844.82user 28777.26system 19:22:47elapsed 2099%CPU (0avgtext+0avgdata 186100maxresident)k
+20592976inputs+245900656outputs (723major+1060388766minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+8969.96user 437.11system 20:54.88elapsed 749%CPU (0avgtext+0avgdata 208020maxresident)k
+116540344inputs+20735088outputs (3major+12841997minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            3  of           21
+ starting wrf task            5  of           21
+ starting wrf task            7  of           21
+ starting wrf task           12  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            4  of           21
+ starting wrf task            6  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           13  of           21
+ starting wrf task           16  of           21
+ starting wrf task           20  of           21
+1374089.36user 26095.59system 18:31:39elapsed 2099%CPU (0avgtext+0avgdata 186280maxresident)k
+20540952inputs+245881872outputs (6major+869062208minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+ starting wrf task            4  of            8
+7562.43user 363.54system 17:30.86elapsed 754%CPU (0avgtext+0avgdata 212720maxresident)k
+114361968inputs+20732200outputs (3major+12844836minor)pagefaults 0swaps
+ starting wrf task            2  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task           15  of           21
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+1273961.90user 23125.02system 17:09:48elapsed 2099%CPU (0avgtext+0avgdata 179532maxresident)k
+20538128inputs+232238040outputs (29major+799086707minor)pagefaults 0swaps
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            4  of            8
+7484.35user 358.73system 17:19.27elapsed 754%CPU (0avgtext+0avgdata 212976maxresident)k
+113103008inputs+20732328outputs (3major+12943724minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           19  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           18  of           21
+ starting wrf task           20  of           21
+1260080.18user 23803.96system 16:59:19elapsed 2099%CPU (0avgtext+0avgdata 180076maxresident)k
+20532600inputs+232229552outputs (5major+894552121minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            4  of            8
+ starting wrf task            7  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+7509.60user 366.07system 17:25.18elapsed 753%CPU (0avgtext+0avgdata 207684maxresident)k
+116732784inputs+20731376outputs (3major+12767558minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            5  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task            4  of           21
+ starting wrf task            6  of           21
+ starting wrf task           10  of           21
+ starting wrf task           17  of           21
+ starting wrf task           20  of           21
+1280543.20user 23878.02system 17:15:38elapsed 2099%CPU (0avgtext+0avgdata 186768maxresident)k
+20529296inputs+245821528outputs (7major+896529849minor)pagefaults 0swaps
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            0  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            7  of            8
+7491.94user 359.98system 17:20.51elapsed 754%CPU (0avgtext+0avgdata 207524maxresident)k
+116540944inputs+20756736outputs (3major+13000057minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+1278270.44user 23213.12system 17:13:17elapsed 2099%CPU (0avgtext+0avgdata 186356maxresident)k
+20525776inputs+245822088outputs (5major+717435270minor)pagefaults 0swaps
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+8925.98user 422.63system 20:46.88elapsed 749%CPU (0avgtext+0avgdata 212392maxresident)k
+114376552inputs+20733096outputs (345major+13046989minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+ starting wrf task            3  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           13  of           21
+1322167.02user 25496.17system 17:49:57elapsed 2099%CPU (0avgtext+0avgdata 180076maxresident)k
+20646768inputs+232735552outputs (820major+876455462minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            7  of            8
+ starting wrf task            1  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+9081.56user 434.46system 21:08.37elapsed 750%CPU (0avgtext+0avgdata 212316maxresident)k
+114400776inputs+20733488outputs (359major+12832405minor)pagefaults 0swaps
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            6  of           21
+ starting wrf task           13  of           21
+ starting wrf task           16  of           21
+ starting wrf task           19  of           21
+ starting wrf task            0  of           21
+ starting wrf task            2  of           21
+ starting wrf task            5  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task            1  of           21
+ starting wrf task           20  of           21
+1375324.34user 28028.18system 18:34:10elapsed 2099%CPU (0avgtext+0avgdata 179300maxresident)k
+20636224inputs+232758760outputs (958major+997774847minor)pagefaults 0swaps
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+[mpiexec@agr-2718-pt640] Sending Ctrl-C to processes as requested
+[mpiexec@agr-2718-pt640] Press Ctrl-C again to force abort
+44.28user 3.56system 0:06.36elapsed 752%CPU (0avgtext+0avgdata 206888maxresident)k
+499064inputs+209992outputs (11major+436862minor)pagefaults 0swaps
+ starting wrf task            1  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            8  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           15  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task            0  of           21
+ starting wrf task            2  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            9  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           16  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+[mpiexec@agr-2718-pt640] Sending Ctrl-C to processes as requested
+[mpiexec@agr-2718-pt640] Press Ctrl-C again to force abort
+34.72user 2.70system 0:01.81elapsed 2061%CPU (0avgtext+0avgdata 106976maxresident)k
+3416inputs+134336outputs (13major+367204minor)pagefaults 0swaps
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            7  of            8
+9419.38user 449.26system 21:57.42elapsed 749%CPU (0avgtext+0avgdata 207284maxresident)k
+116799352inputs+20741240outputs (0major+13428454minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            5  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           14  of           21
+ starting wrf task           17  of           21
+ starting wrf task            4  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task           13  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+1268447.20user 23962.54system 17:06:06elapsed 2099%CPU (0avgtext+0avgdata 185776maxresident)k
+20584216inputs+246321848outputs (20major+844288824minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            6  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            7  of            8
+9418.45user 454.19system 21:58.51elapsed 748%CPU (0avgtext+0avgdata 207256maxresident)k
+118585328inputs+20732656outputs (12major+13101550minor)pagefaults 0swaps
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            4  of           21
+ starting wrf task            6  of           21
+ starting wrf task           10  of           21
+ starting wrf task           14  of           21
+ starting wrf task           18  of           21
+ starting wrf task            0  of           21
+ starting wrf task            3  of           21
+ starting wrf task            5  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+1283430.93user 24259.30system 17:18:14elapsed 2099%CPU (0avgtext+0avgdata 186568maxresident)k
+20575760inputs+246331312outputs (14major+858500955minor)pagefaults 0swaps
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+10247.92user 487.67system 24:02.11elapsed 744%CPU (0avgtext+0avgdata 211652maxresident)k
+114392144inputs+20733992outputs (355major+13360876minor)pagefaults 0swaps
+ starting wrf task            5  of           21
+ starting wrf task            7  of           21
+ starting wrf task           15  of           21
+ starting wrf task           20  of           21
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task            6  of           21
+ starting wrf task           12  of           21
+1326875.58user 25127.34system 17:53:25elapsed 2099%CPU (0avgtext+0avgdata 180024maxresident)k
+20633640inputs+232743544outputs (804major+949647487minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            4  of            8
+ starting wrf task            7  of            8
+9295.39user 454.27system 21:42.25elapsed 748%CPU (0avgtext+0avgdata 207416maxresident)k
+117269112inputs+20759048outputs (292major+13120842minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task            5  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+1356964.81user 26341.78system 18:18:16elapsed 2099%CPU (0avgtext+0avgdata 185504maxresident)k
+20584792inputs+246366408outputs (47major+1095735300minor)pagefaults 0swaps
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            7  of            8
+9442.09user 454.79system 22:01.02elapsed 749%CPU (0avgtext+0avgdata 206964maxresident)k
+117073368inputs+20732528outputs (10major+12902402minor)pagefaults 0swaps
+ starting wrf task            2  of           21
+ starting wrf task            6  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           18  of           21
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+1369472.49user 26624.60system 18:28:25elapsed 2099%CPU (0avgtext+0avgdata 186120maxresident)k
+20586312inputs+246367960outputs (12major+1036190146minor)pagefaults 0swaps
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            4  of            8
+ starting wrf task            7  of            8
+8866.69user 431.12system 20:38.50elapsed 750%CPU (0avgtext+0avgdata 202732maxresident)k
+113046688inputs+20730360outputs (12major+12723434minor)pagefaults 0swaps
+ starting wrf task            1  of           21
+ starting wrf task            9  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           18  of           21
+ starting wrf task            0  of           21
+ starting wrf task            2  of           21
+ starting wrf task            5  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           17  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+ starting wrf task           14  of           21
+1256507.89user 24351.51system 16:56:55elapsed 2099%CPU (0avgtext+0avgdata 174996maxresident)k
+20557440inputs+213969384outputs (15major+989360703minor)pagefaults 0swaps
+ starting wrf task            4  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            7  of            8
+9489.54user 451.88system 22:06.93elapsed 749%CPU (0avgtext+0avgdata 207400maxresident)k
+118588160inputs+20732664outputs (8major+12869623minor)pagefaults 0swaps
+ starting wrf task            1  of           21
+ starting wrf task            3  of           21
+ starting wrf task            6  of           21
+ starting wrf task           11  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task            0  of           21
+ starting wrf task            2  of           21
+ starting wrf task            4  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           20  of           21
+ starting wrf task            5  of           21
+1280163.79user 24459.43system 17:15:48elapsed 2099%CPU (0avgtext+0avgdata 186600maxresident)k
+20581680inputs+246328672outputs (18major+926100419minor)pagefaults 0swaps
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            7  of            8
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+8785.06user 422.97system 20:26.14elapsed 750%CPU (0avgtext+0avgdata 203196maxresident)k
+112991504inputs+20730224outputs (17major+13079377minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task            2  of           21
+ starting wrf task            7  of           21
+ starting wrf task           11  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+1203153.19user 22767.75system 16:13:18elapsed 2099%CPU (0avgtext+0avgdata 174868maxresident)k
+20553680inputs+213940016outputs (10major+778666991minor)pagefaults 0swaps
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            7  of            8
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+9578.15user 457.49system 22:20.22elapsed 748%CPU (0avgtext+0avgdata 207056maxresident)k
+118582480inputs+20733040outputs (8major+12985436minor)pagefaults 0swaps
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            6  of           21
+ starting wrf task            8  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           18  of           21
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            7  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+1269118.31user 23771.42system 17:06:27elapsed 2099%CPU (0avgtext+0avgdata 185672maxresident)k
+20574104inputs+246324944outputs (10major+882304551minor)pagefaults 0swaps
+ starting wrf task            2  of            8
+ starting wrf task            1  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            0  of            8
+ starting wrf task            7  of            8
+8713.79user 422.94system 20:18.01elapsed 750%CPU (0avgtext+0avgdata 203292maxresident)k
+113083728inputs+20726240outputs (12major+12641393minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           20  of           21
+ starting wrf task           19  of           21
+1224639.12user 24155.78system 16:31:28elapsed 2099%CPU (0avgtext+0avgdata 175172maxresident)k
+20559904inputs+213957456outputs (24major+1002998293minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+6168.50user 294.55system 14:16.97elapsed 754%CPU (0avgtext+0avgdata 186236maxresident)k
+89630952inputs+18863032outputs (352major+10036862minor)pagefaults 0swaps
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           16  of           21
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            8  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           15  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+629502.85user 12447.63system 8:29:44elapsed 2098%CPU (0avgtext+0avgdata 199120maxresident)k
+18753664inputs+179777840outputs (725major+589487025minor)pagefaults 0swaps
+ starting wrf task            6  of            8
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            7  of            8
+6106.35user 296.86system 14:08.35elapsed 754%CPU (0avgtext+0avgdata 185876maxresident)k
+88366728inputs+18878208outputs (20major+10078460minor)pagefaults 0swaps
+ starting wrf task            5  of           21
+ starting wrf task           10  of           21
+ starting wrf task           16  of           21
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           15  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+ starting wrf task           14  of           21
+649381.50user 16066.13system 8:48:23elapsed 2098%CPU (0avgtext+0avgdata 199660maxresident)k
+18711648inputs+248868328outputs (11major+550187283minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+ starting wrf task            5  of            8
+[mpiexec@agr-2718-pt640] Sending Ctrl-C to processes as requested
+[mpiexec@agr-2718-pt640] Press Ctrl-C again to force abort
+42.38user 3.30system 0:06.04elapsed 755%CPU (0avgtext+0avgdata 180852maxresident)k
+531856inputs+206328outputs (8major+423617minor)pagefaults 0swaps
+ starting wrf task            4  of           21
+ starting wrf task            6  of           21
+ starting wrf task           13  of           21
+ starting wrf task           15  of           21
+ starting wrf task           18  of           21
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            5  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           14  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+[mpiexec@agr-2718-pt640] Sending Ctrl-C to processes as requested
+[mpiexec@agr-2718-pt640] Press Ctrl-C again to force abort
+2.22user 0.93system 0:00.22elapsed 1425%CPU (0avgtext+0avgdata 5832maxresident)k
+344inputs+272outputs (5major+8274minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            7  of            8
+[mpiexec@agr-2718-pt640] Sending Ctrl-C to processes as requested
+[mpiexec@agr-2718-pt640] Press Ctrl-C again to force abort
+0.22user 0.08system 0:00.05elapsed 590%CPU (0avgtext+0avgdata 16084maxresident)k
+0inputs+296outputs (0major+18409minor)pagefaults 0swaps
+ starting wrf task            4  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           15  of           21
+ starting wrf task           18  of           21
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+[mpiexec@agr-2718-pt640] Sending Ctrl-C to processes as requested
+[mpiexec@agr-2718-pt640] Press Ctrl-C again to force abort
+11.64user 1.92system 0:00.67elapsed 2022%CPU (0avgtext+0avgdata 91308maxresident)k
+2688inputs+632outputs (3major+302190minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            3  of            8
+ starting wrf task            5  of            8
+ starting wrf task            7  of            8
+ starting wrf task            2  of            8
+ starting wrf task            4  of            8
+ starting wrf task            6  of            8
+6363.63user 306.99system 14:45.32elapsed 753%CPU (0avgtext+0avgdata 182116maxresident)k
+91149200inputs+18862048outputs (0major+9884569minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+ starting wrf task            1  of           21
+ starting wrf task           13  of           21
+ starting wrf task           16  of           21
+606720.57user 12088.31system 8:11:22elapsed 2098%CPU (0avgtext+0avgdata 201952maxresident)k
+18717736inputs+191793464outputs (35major+629508657minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            1  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+6248.48user 308.68system 14:30.69elapsed 753%CPU (0avgtext+0avgdata 182264maxresident)k
+91048768inputs+18882656outputs (9major+9999024minor)pagefaults 0swaps
+ starting wrf task            3  of           21
+ starting wrf task            6  of           21
+ starting wrf task           10  of           21
+ starting wrf task           18  of           21
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+ starting wrf task            7  of           21
+641660.35user 13394.23system 8:40:08elapsed 2098%CPU (0avgtext+0avgdata 201016maxresident)k
+18708368inputs+205565912outputs (7major+514488410minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            1  of            8
+ starting wrf task            7  of            8
+5910.93user 290.74system 13:43.28elapsed 753%CPU (0avgtext+0avgdata 178284maxresident)k
+87781224inputs+18845384outputs (7major+9917404minor)pagefaults 0swaps
+ starting wrf task            1  of           21
+ starting wrf task            3  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           17  of           21
+ starting wrf task            0  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+ starting wrf task            2  of           21
+585646.49user 10924.45system 7:53:42elapsed 2098%CPU (0avgtext+0avgdata 197932maxresident)k
+18694112inputs+166584720outputs (7major+490265550minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            7  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            6  of            8
+6010.12user 290.73system 13:55.20elapsed 754%CPU (0avgtext+0avgdata 178980maxresident)k
+87892696inputs+18865416outputs (9major+10055249minor)pagefaults 0swaps
+ starting wrf task            3  of           21
+ starting wrf task            6  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           12  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           19  of           21
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task           11  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           18  of           21
+ starting wrf task           20  of           21
+596402.93user 11832.83system 8:02:58elapsed 2098%CPU (0avgtext+0avgdata 197680maxresident)k
+18691160inputs+166594176outputs (7major+570849006minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+ starting wrf task            4  of            8
+7325.09user 349.48system 16:57.60elapsed 754%CPU (0avgtext+0avgdata 212224maxresident)k
+114377952inputs+20732584outputs (355major+12878132minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+1323456.31user 25088.46system 17:50:38elapsed 2099%CPU (0avgtext+0avgdata 179520maxresident)k
+20629984inputs+232734464outputs (714major+824241355minor)pagefaults 0swaps
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            6  of            8
+ starting wrf task            0  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            7  of            8
+ starting wrf task            3  of            8
+7468.90user 358.56system 17:17.42elapsed 754%CPU (0avgtext+0avgdata 207188maxresident)k
+117295624inputs+20758024outputs (18major+12937400minor)pagefaults 0swaps
+ starting wrf task            3  of           21
+ starting wrf task            8  of           21
+ starting wrf task           12  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           20  of           21
+ starting wrf task            0  of           21
+ starting wrf task            2  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            7  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           14  of           21
+ starting wrf task           16  of           21
+ starting wrf task           19  of           21
+ starting wrf task            1  of           21
+ starting wrf task            6  of           21
+ starting wrf task           13  of           21
+ starting wrf task           15  of           21
+1265618.09user 23885.74system 17:03:48elapsed 2099%CPU (0avgtext+0avgdata 186396maxresident)k
+20578776inputs+246316312outputs (23major+919924346minor)pagefaults 0swaps
+ starting wrf task            2  of            8
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+[mpiexec@agr-2718-pt640] Sending Ctrl-C to processes as requested
+[mpiexec@agr-2718-pt640] Press Ctrl-C again to force abort
+16.55user 1.89system 0:02.46elapsed 749%CPU (0avgtext+0avgdata 210560maxresident)k
+220632inputs+150744outputs (364major+414649minor)pagefaults 0swaps
+ starting wrf task            2  of           21
+ starting wrf task            5  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           15  of           21
+ starting wrf task           17  of           21
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            6  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           16  of           21
+ starting wrf task           18  of           21
+ starting wrf task           20  of           21
+ starting wrf task           19  of           21
+[mpiexec@agr-2718-pt640] Sending Ctrl-C to processes as requested
+[mpiexec@agr-2718-pt640] Press Ctrl-C again to force abort
+1.60user 1.19system 0:00.16elapsed 1712%CPU (0avgtext+0avgdata 68276maxresident)k
+30176inputs+504outputs (353major+223368minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            7  of            8
+[mpiexec@agr-2718-pt640] Sending Ctrl-C to processes as requested
+[mpiexec@agr-2718-pt640] Press Ctrl-C again to force abort
+7.21user 1.13system 0:01.18elapsed 703%CPU (0avgtext+0avgdata 185832maxresident)k
+2472inputs+137776outputs (0major+379052minor)pagefaults 0swaps
+[mpiexec@agr-2718-pt640] Sending Ctrl-C to processes as requested
+[mpiexec@agr-2718-pt640] Press Ctrl-C again to force abort
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           13  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           18  of           21
+ starting wrf task            0  of           21
+ starting wrf task            3  of           21
+ starting wrf task           12  of           21
+ starting wrf task           14  of           21
+ starting wrf task           17  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+Ctrl-C caught... cleaning up processes
+[proxy:0:0@agr-2718-pt640] HYD_pmcd_pmip_control_cmd_cb (./pm/pmiserv/pmip_cb.c:886): assert (!closed) failed
+[proxy:0:0@agr-2718-pt640] HYDT_dmxu_poll_wait_for_event (./tools/demux/demux_poll.c:77): callback returned error status
+[proxy:0:0@agr-2718-pt640] main (./pm/pmiserv/pmip.c:206): demux engine error waiting for event
+[mpiexec@agr-2718-pt640] HYDT_bscu_wait_for_completion (./tools/bootstrap/utils/bscu_wait.c:76): one of the processes terminated badly; aborting
+[mpiexec@agr-2718-pt640] HYDT_bsci_wait_for_completion (./tools/bootstrap/src/bsci_wait.c:23): launcher returned error waiting for completion
+[mpiexec@agr-2718-pt640] ui_cmd_cb (./pm/pmiserv/pmiserv_pmci.c:71): launcher returned error waiting for completion
+[mpiexec@agr-2718-pt640] HYDT_dmxu_poll_wait_for_event (./tools/demux/demux_poll.c:77): callback returned error status
+[mpiexec@agr-2718-pt640] HYD_pmci_wait_for_completion (./pm/pmiserv/pmiserv_pmci.c:197): error waiting for event
+[mpiexec@agr-2718-pt640] main (./ui/mpich/mpiexec.c:331): process manager error waiting for completion
+Command exited with non-zero status 255
+0.00user 0.01system 0:00.20elapsed 10%CPU (0avgtext+0avgdata 3116maxresident)k
+0inputs+0outputs (0major+741minor)pagefaults 0swaps
+ starting wrf task            1  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            0  of            8
+ starting wrf task            2  of            8
+ starting wrf task            7  of            8
+7299.83user 349.30system 16:54.87elapsed 753%CPU (0avgtext+0avgdata 212340maxresident)k
+114182496inputs+20732712outputs (0major+12965896minor)pagefaults 0swaps
+ starting wrf task            3  of           21
+ starting wrf task            8  of           21
+ starting wrf task           10  of           21
+ starting wrf task           18  of           21
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            9  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+ starting wrf task            2  of           21
+1303597.43user 24515.87system 17:34:26elapsed 2099%CPU (0avgtext+0avgdata 180572maxresident)k
+20603664inputs+232723248outputs (325major+868539669minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            7  of            8
+ starting wrf task            3  of            8
+ starting wrf task            6  of            8
+7499.38user 365.82system 17:23.78elapsed 753%CPU (0avgtext+0avgdata 206724maxresident)k
+118623872inputs+20757288outputs (188major+12908862minor)pagefaults 0swaps
+ starting wrf task            3  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task            0  of           21
+ starting wrf task            4  of           21
+ starting wrf task           20  of           21
+1287172.94user 25432.25system 17:22:08elapsed 2099%CPU (0avgtext+0avgdata 186100maxresident)k
+20585064inputs+246334120outputs (19major+991750350minor)pagefaults 0swaps
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+7255.67user 348.67system 16:49.61elapsed 753%CPU (0avgtext+0avgdata 211532maxresident)k
+114389312inputs+20732200outputs (351major+12746847minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            5  of           21
+ starting wrf task            8  of           21
+ starting wrf task           14  of           21
+ starting wrf task           20  of           21
+1412896.50user 27180.05system 19:03:19elapsed 2099%CPU (0avgtext+0avgdata 179948maxresident)k
+20647480inputs+232765128outputs (936major+816549946minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            4  of            8
+ starting wrf task            2  of            8
+ starting wrf task            5  of            8
+ starting wrf task            7  of            8
+ starting wrf task            1  of            8
+ starting wrf task            3  of            8
+ starting wrf task            6  of            8
+7758.91user 367.00system 17:55.69elapsed 755%CPU (0avgtext+0avgdata 206788maxresident)k
+118620880inputs+20749568outputs (268major+13196223minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           14  of           21
+ starting wrf task           16  of           21
+ starting wrf task           19  of           21
+ starting wrf task            1  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            9  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           15  of           21
+ starting wrf task           18  of           21
+ starting wrf task           20  of           21
+ starting wrf task           17  of           21
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+Command exited with non-zero status 1
+1155102.34user 27827.42system 15:39:08elapsed 2099%CPU (0avgtext+0avgdata 184640maxresident)k
+13847696inputs+164409296outputs (781major+653506279minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            4  of            8
+ starting wrf task            7  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+[mpiexec@agr-2718-pt640] Sending Ctrl-C to processes as requested
+[mpiexec@agr-2718-pt640] Press Ctrl-C again to force abort
+574.02user 28.42system 1:19.90elapsed 753%CPU (0avgtext+0avgdata 186140maxresident)k
+8238808inputs+1806336outputs (323major+1258273minor)pagefaults 0swaps
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           12  of           21
+ starting wrf task           14  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task            0  of           21
+ starting wrf task           11  of           21
+ starting wrf task           13  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+[mpiexec@agr-2718-pt640] Sending Ctrl-C to processes as requested
+[mpiexec@agr-2718-pt640] Press Ctrl-C again to force abort
+1.59user 0.87system 0:00.14elapsed 1680%CPU (0avgtext+0avgdata 43444maxresident)k
+20880inputs+504outputs (382major+105830minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+[mpiexec@agr-2718-pt640] Sending Ctrl-C to processes as requested
+[mpiexec@agr-2718-pt640] Press Ctrl-C again to force abort
+0.41user 0.30system 0:00.10elapsed 697%CPU (0avgtext+0avgdata 57176maxresident)k
+0inputs+304outputs (0major+99212minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+ starting wrf task            9  of           21
+[mpiexec@agr-2718-pt640] Sending Ctrl-C to processes as requested
+[mpiexec@agr-2718-pt640] Press Ctrl-C again to force abort
+2.23user 1.01system 0:00.17elapsed 1844%CPU (0avgtext+0avgdata 65384maxresident)k
+9048inputs+504outputs (3major+206210minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            2  of            8
+ starting wrf task            1  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+[mpiexec@agr-2718-pt640] Sending Ctrl-C to processes as requested
+[mpiexec@agr-2718-pt640] Press Ctrl-C again to force abort
+0.55user 0.60system 0:00.15elapsed 727%CPU (0avgtext+0avgdata 120324maxresident)k
+0inputs+296outputs (0major+194712minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+[mpiexec@agr-2718-pt640] Sending Ctrl-C to processes as requested
+[mpiexec@agr-2718-pt640] Press Ctrl-C again to force abort
+2.08user 0.28system 0:00.13elapsed 1710%CPU (0avgtext+0avgdata 20456maxresident)k
+8inputs+504outputs (0major+43246minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            4  of            8
+ starting wrf task            6  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            5  of            8
+ starting wrf task            7  of            8
+[mpiexec@agr-2718-pt640] Sending Ctrl-C to processes as requested
+[mpiexec@agr-2718-pt640] Press Ctrl-C again to force abort
+0.30user 0.14system 0:00.07elapsed 640%CPU (0avgtext+0avgdata 30152maxresident)k
+0inputs+304outputs (0major+40058minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+[mpiexec@agr-2718-pt640] Sending Ctrl-C to processes as requested
+[mpiexec@agr-2718-pt640] Press Ctrl-C again to force abort
+2.29user 0.40system 0:00.15elapsed 1784%CPU (0avgtext+0avgdata 31376maxresident)k
+0inputs+504outputs (0major+72398minor)pagefaults 0swaps
+ starting wrf task            3  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            4  of            8
+5917.77user 286.40system 13:40.92elapsed 755%CPU (0avgtext+0avgdata 186368maxresident)k
+81411760inputs+18862904outputs (0major+9989173minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           13  of           21
+ starting wrf task           16  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task            2  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           17  of           21
+ starting wrf task           20  of           21
+776046.57user 18370.86system 10:30:45elapsed 2099%CPU (0avgtext+0avgdata 201024maxresident)k
+18737952inputs+181235104outputs (435major+578583980minor)pagefaults 0swaps
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            0  of            8
+ starting wrf task            4  of            8
+ starting wrf task            7  of            8
+6247.31user 303.50system 14:25.00elapsed 757%CPU (0avgtext+0avgdata 186404maxresident)k
+80855840inputs+18890808outputs (317major+10026065minor)pagefaults 0swaps
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task           10  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           17  of           21
+ starting wrf task           19  of           21
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            4  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           18  of           21
+ starting wrf task           20  of           21
+765417.17user 20978.65system 10:24:23elapsed 2099%CPU (0avgtext+0avgdata 200280maxresident)k
+18714568inputs+250359096outputs (13major+488088302minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+6221.91user 301.48system 14:22.42elapsed 756%CPU (0avgtext+0avgdata 181960maxresident)k
+85119944inputs+18883920outputs (36major+10094795minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task            1  of           21
+ starting wrf task            9  of           21
+ starting wrf task           15  of           21
+ starting wrf task           20  of           21
+744341.63user 17503.29system 10:04:53elapsed 2099%CPU (0avgtext+0avgdata 200812maxresident)k
+18721112inputs+191845768outputs (17major+509719411minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            5  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+6353.16user 307.91system 14:41.49elapsed 755%CPU (0avgtext+0avgdata 181680maxresident)k
+86443792inputs+18862424outputs (44major+10066412minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            2  of           21
+ starting wrf task            5  of           21
+ starting wrf task            7  of           21
+ starting wrf task           10  of           21
+ starting wrf task           12  of           21
+ starting wrf task           15  of           21
+ starting wrf task           17  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+ starting wrf task            1  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            6  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           11  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           16  of           21
+ starting wrf task           18  of           21
+[mpiexec@agr-2718-pt640] Sending Ctrl-C to processes as requested
+[mpiexec@agr-2718-pt640] Press Ctrl-C again to force abort
+128381.66user 2947.23system 1:44:16elapsed 2099%CPU (0avgtext+0avgdata 176892maxresident)k
+3305456inputs+32292408outputs (799major+81024367minor)pagefaults 0swaps
+ starting wrf task            1  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+ starting wrf task            0  of            8
+ starting wrf task            2  of            8
+7980.15user 384.58system 18:28.35elapsed 754%CPU (0avgtext+0avgdata 207236maxresident)k
+118088208inputs+20731760outputs (9major+12909589minor)pagefaults 0swaps
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            6  of           21
+ starting wrf task            9  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           15  of           21
+ starting wrf task           19  of           21
+ starting wrf task            0  of           21
+ starting wrf task            2  of           21
+ starting wrf task            5  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           14  of           21
+ starting wrf task           16  of           21
+ starting wrf task           18  of           21
+ starting wrf task           20  of           21
+ starting wrf task            1  of           21
+ starting wrf task           17  of           21
+1504288.37user 33778.75system 20:21:04elapsed 2099%CPU (0avgtext+0avgdata 185592maxresident)k
+20537272inputs+245935096outputs (9major+755488303minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+7518.03user 364.16system 17:25.15elapsed 754%CPU (0avgtext+0avgdata 206852maxresident)k
+117200216inputs+20756808outputs (18major+12778219minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           15  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task            3  of           21
+ starting wrf task            6  of           21
+ starting wrf task           10  of           21
+ starting wrf task           14  of           21
+ starting wrf task           16  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+1382783.26user 27694.33system 18:39:48elapsed 2099%CPU (0avgtext+0avgdata 185692maxresident)k
+20551624inputs+245878976outputs (10major+823296551minor)pagefaults 0swaps
+ starting wrf task            7  of            8
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+6338.59user 304.78system 14:43.22elapsed 752%CPU (0avgtext+0avgdata 182004maxresident)k
+93048320inputs+18863448outputs (341major+10178820minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+ starting wrf task            1  of           21
+ starting wrf task            4  of           21
+ starting wrf task           16  of           21
+653196.07user 12989.85system 8:48:57elapsed 2099%CPU (0avgtext+0avgdata 200500maxresident)k
+18781984inputs+191835776outputs (943major+460894364minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            3  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+ starting wrf task            2  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+6334.52user 308.27system 14:41.14elapsed 753%CPU (0avgtext+0avgdata 181612maxresident)k
+91492208inputs+18877896outputs (16major+10188410minor)pagefaults 0swaps
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           12  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task            0  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            8  of           21
+ starting wrf task           11  of           21
+ starting wrf task           13  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           20  of           21
+652371.96user 13823.94system 8:48:58elapsed 2098%CPU (0avgtext+0avgdata 201032maxresident)k
+18725352inputs+205621696outputs (10major+523007791minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            3  of            8
+ starting wrf task            6  of            8
+ starting wrf task            2  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            7  of            8
+7530.13user 327.92system 17:22.57elapsed 753%CPU (0avgtext+0avgdata 212992maxresident)k
+114335392inputs+20733744outputs (5major+13019281minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            2  of           21
+ starting wrf task            4  of           21
+ starting wrf task            7  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           16  of           21
+ starting wrf task           18  of           21
+ starting wrf task            1  of           21
+ starting wrf task            3  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           17  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+1367157.43user 24611.75system 18:24:56elapsed 2099%CPU (0avgtext+0avgdata 180872maxresident)k
+20536296inputs+232297808outputs (17major+869310288minor)pagefaults 0swaps
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            7  of            8
+ starting wrf task            4  of            8
+7671.39user 335.87system 17:40.58elapsed 754%CPU (0avgtext+0avgdata 211084maxresident)k
+114411960inputs+20736552outputs (359major+12886222minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            2  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task            1  of           21
+ starting wrf task            3  of           21
+ starting wrf task            6  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+1418701.00user 24921.88system 19:06:09elapsed 2099%CPU (0avgtext+0avgdata 179084maxresident)k
+20599152inputs+230477632outputs (798major+936088862minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            4  of            8
+ starting wrf task            7  of            8
+ starting wrf task            3  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+Command exited with non-zero status 1
+0.94user 1.00system 0:00.31elapsed 620%CPU (0avgtext+0avgdata 157348maxresident)k
+36488inputs+1008outputs (281major+279200minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           18  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            8  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           17  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+Command exited with non-zero status 1
+2.07user 1.58system 0:00.20elapsed 1775%CPU (0avgtext+0avgdata 71736maxresident)k
+32080inputs+512outputs (476major+288853minor)pagefaults 0swaps
+ starting wrf task            2  of            8
+ starting wrf task            0  of            8
+ starting wrf task            3  of            8
+ starting wrf task            7  of            8
+ starting wrf task            1  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+[mpiexec@agr-2718-pt640] Sending Ctrl-C to processes as requested
+[mpiexec@agr-2718-pt640] Press Ctrl-C again to force abort
+189.41user 9.92system 0:26.42elapsed 754%CPU (0avgtext+0avgdata 209968maxresident)k
+2362960inputs+619264outputs (0major+758655minor)pagefaults 0swaps
+ starting wrf task            6  of           21
+ starting wrf task           20  of           21
+ starting wrf task            4  of           21
+ starting wrf task            7  of           21
+ starting wrf task           14  of           21
+ starting wrf task           16  of           21
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           15  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task            5  of           21
+[mpiexec@agr-2718-pt640] Sending Ctrl-C to processes as requested
+[mpiexec@agr-2718-pt640] Press Ctrl-C again to force abort
+2.59user 1.43system 0:00.21elapsed 1871%CPU (0avgtext+0avgdata 67140maxresident)k
+0inputs+504outputs (0major+276418minor)pagefaults 0swaps
+ starting wrf task            1  of            8
+ starting wrf task            3  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+ starting wrf task            0  of            8
+ starting wrf task            2  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+3601.21user 160.35system 8:19.05elapsed 753%CPU (0avgtext+0avgdata 209672maxresident)k
+51791424inputs+10434680outputs (1major+6704260minor)pagefaults 0swaps
+ starting wrf task           11  of           21
+ starting wrf task            4  of           21
+ starting wrf task           19  of           21
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            3  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task           10  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task            9  of           21
+ starting wrf task           20  of           21
+ starting wrf task            2  of           21
+ starting wrf task            5  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            4  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+3651.78user 156.87system 8:25.02elapsed 754%CPU (0avgtext+0avgdata 209108maxresident)k
+54476976inputs+10434680outputs (345major+6486283minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task            7  of           21
+ starting wrf task           12  of           21
+ starting wrf task           20  of           21
+1432701.09user 25913.79system 19:18:01elapsed 2099%CPU (0avgtext+0avgdata 179724maxresident)k
+10374792inputs+232115184outputs (770major+895634268minor)pagefaults 0swaps
+ starting wrf task            2  of            8
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+3660.40user 161.80system 8:26.78elapsed 754%CPU (0avgtext+0avgdata 204164maxresident)k
+55869384inputs+10435648outputs (6major+7048994minor)pagefaults 0swaps
+ starting wrf task            3  of           21
+ starting wrf task            6  of           21
+ starting wrf task           14  of           21
+ starting wrf task           19  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            7  of           21
+ starting wrf task            9  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           20  of           21
+ starting wrf task            8  of           21
+ starting wrf task           10  of           21
+ starting wrf task           13  of           21
+ starting wrf task            0  of           21
+1480655.88user 25791.18system 19:56:02elapsed 2099%CPU (0avgtext+0avgdata 184604maxresident)k
+10429392inputs+245704392outputs (2485major+967533877minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+3784.89user 168.51system 8:45.20elapsed 752%CPU (0avgtext+0avgdata 203848maxresident)k
+56623704inputs+10458432outputs (338major+6656918minor)pagefaults 0swaps
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            8  of           21
+ starting wrf task           13  of           21
+ starting wrf task           16  of           21
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            4  of           21
+ starting wrf task            7  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+1413466.44user 25036.73system 19:02:02elapsed 2099%CPU (0avgtext+0avgdata 183636maxresident)k
+10357600inputs+245691248outputs (266major+792776044minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            3  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+ starting wrf task            2  of            8
+ starting wrf task            4  of            8
+3638.79user 164.59system 8:24.44elapsed 753%CPU (0avgtext+0avgdata 203716maxresident)k
+55795616inputs+10449448outputs (7major+6477544minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task           11  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+ starting wrf task            4  of           21
+1366128.86user 24110.29system 18:23:45elapsed 2099%CPU (0avgtext+0avgdata 181628maxresident)k
+10343184inputs+245690864outputs (326major+862426776minor)pagefaults 0swaps
+ starting wrf task            6  of            8
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            7  of            8
+3593.96user 159.39system 8:17.66elapsed 754%CPU (0avgtext+0avgdata 208656maxresident)k
+54455888inputs+10434680outputs (337major+6527498minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            7  of           21
+ starting wrf task           10  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+ starting wrf task            6  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           11  of           21
+ starting wrf task           14  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+1410522.82user 25445.55system 19:00:02elapsed 2099%CPU (0avgtext+0avgdata 176588maxresident)k
+10333992inputs+232107776outputs (52major+973136872minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+3626.97user 160.84system 8:22.18elapsed 754%CPU (0avgtext+0avgdata 203984maxresident)k
+55868040inputs+10457848outputs (10major+6460995minor)pagefaults 0swaps
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task           11  of           21
+ starting wrf task           13  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           12  of           21
+ starting wrf task           14  of           21
+1399759.05user 24864.59system 18:51:00elapsed 2099%CPU (0avgtext+0avgdata 182636maxresident)k
+10329080inputs+245690872outputs (8major+847060243minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+3719.38user 165.44system 8:35.22elapsed 754%CPU (0avgtext+0avgdata 204068maxresident)k
+55784320inputs+10455816outputs (2major+6495481minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            2  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           15  of           21
+ starting wrf task           17  of           21
+ starting wrf task            1  of           21
+ starting wrf task            3  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           14  of           21
+ starting wrf task           16  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+1374691.97user 25268.54system 18:31:28elapsed 2099%CPU (0avgtext+0avgdata 182724maxresident)k
+10322168inputs+245691536outputs (2major+975932286minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            4  of            8
+ starting wrf task            7  of            8
+3599.74user 164.01system 8:18.89elapsed 754%CPU (0avgtext+0avgdata 203524maxresident)k
+55785344inputs+10456144outputs (3major+6756516minor)pagefaults 0swaps
+ starting wrf task            1  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            9  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+ starting wrf task            0  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            8  of           21
+ starting wrf task           10  of           21
+ starting wrf task           15  of           21
+ starting wrf task           18  of           21
+1406383.63user 25653.82system 18:56:56elapsed 2099%CPU (0avgtext+0avgdata 183736maxresident)k
+10320248inputs+245691480outputs (2major+870341346minor)pagefaults 0swaps
+ starting wrf task            4  of            8
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+7625.63user 335.18system 17:36.15elapsed 753%CPU (0avgtext+0avgdata 211472maxresident)k
+114398608inputs+20732456outputs (325major+12686438minor)pagefaults 0swaps
+ starting wrf task            1  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task           10  of           21
+ starting wrf task           13  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task            0  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           17  of           21
+ starting wrf task           20  of           21
+ starting wrf task           14  of           21
+1412993.11user 26401.75system 19:02:46elapsed 2099%CPU (0avgtext+0avgdata 178080maxresident)k
+20594928inputs+230485384outputs (896major+944535780minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+ starting wrf task            2  of            8
+7877.15user 353.53system 18:10.89elapsed 754%CPU (0avgtext+0avgdata 212640maxresident)k
+114373632inputs+20736552outputs (15major+12943265minor)pagefaults 0swaps
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           20  of           21
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+1502714.05user 27377.26system 20:14:48elapsed 2099%CPU (0avgtext+0avgdata 180988maxresident)k
+20542296inputs+232347032outputs (14major+887708367minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            2  of            8
+ starting wrf task            6  of            8
+ starting wrf task            1  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            7  of            8
+8233.67user 367.39system 19:04.27elapsed 751%CPU (0avgtext+0avgdata 212192maxresident)k
+114373224inputs+20735528outputs (15major+12897953minor)pagefaults 0swaps
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            9  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           18  of           21
+ starting wrf task            0  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+1376798.95user 24128.11system 18:32:16elapsed 2099%CPU (0avgtext+0avgdata 179712maxresident)k
+20574680inputs+232322288outputs (447major+793825949minor)pagefaults 0swaps
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+ starting wrf task            0  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+9091.27user 402.78system 21:05.16elapsed 750%CPU (0avgtext+0avgdata 212436maxresident)k
+114365336inputs+20736552outputs (20major+12737341minor)pagefaults 0swaps
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            7  of           21
+ starting wrf task           11  of           21
+ starting wrf task           13  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           12  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+ starting wrf task            8  of           21
+1346068.24user 25123.84system 18:08:37elapsed 2099%CPU (0avgtext+0avgdata 180004maxresident)k
+20499760inputs+232309128outputs (11major+943860175minor)pagefaults 0swaps
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+ starting wrf task            0  of            8
+9313.53user 413.24system 21:37.17elapsed 749%CPU (0avgtext+0avgdata 206512maxresident)k
+117258464inputs+20757488outputs (310major+12952725minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            2  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            8  of           21
+ starting wrf task           10  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           18  of           21
+ starting wrf task           20  of           21
+ starting wrf task            1  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            7  of           21
+ starting wrf task            9  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           17  of           21
+ starting wrf task           19  of           21
+1331224.88user 24802.68system 17:56:36elapsed 2099%CPU (0avgtext+0avgdata 187012maxresident)k
+20540272inputs+245887032outputs (18major+837800191minor)pagefaults 0swaps
+ starting wrf task            1  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            6  of            8
+ starting wrf task            0  of            8
+ starting wrf task            2  of            8
+ starting wrf task            5  of            8
+ starting wrf task            7  of            8
+9093.65user 410.55system 21:07.91elapsed 749%CPU (0avgtext+0avgdata 212208maxresident)k
+114371176inputs+20733480outputs (10major+12855184minor)pagefaults 0swaps
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            8  of           21
+ starting wrf task           16  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           17  of           21
+ starting wrf task           20  of           21
+1295877.64user 24184.83system 17:28:02elapsed 2099%CPU (0avgtext+0avgdata 180368maxresident)k
+20589008inputs+232249816outputs (737major+1115632129minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+ starting wrf task            1  of            8
+9498.79user 417.73system 22:02.14elapsed 750%CPU (0avgtext+0avgdata 207096maxresident)k
+117316416inputs+20756864outputs (310major+13090355minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           20  of           21
+ starting wrf task           19  of           21
+1430427.52user 28315.30system 19:18:08elapsed 2099%CPU (0avgtext+0avgdata 186472maxresident)k
+20537448inputs+245889512outputs (31major+997212520minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+ starting wrf task            4  of            8
+7851.47user 351.07system 18:09.12elapsed 753%CPU (0avgtext+0avgdata 207144maxresident)k
+118097720inputs+20731760outputs (11major+12914169minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task            1  of           21
+ starting wrf task           13  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+1381916.95user 24700.20system 18:36:44elapsed 2099%CPU (0avgtext+0avgdata 186024maxresident)k
+20592272inputs+245869360outputs (729major+928769320minor)pagefaults 0swaps
+ starting wrf task            4  of            8
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+7763.56user 350.27system 17:54.47elapsed 755%CPU (0avgtext+0avgdata 207052maxresident)k
+116612496inputs+20752048outputs (13major+12769824minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task            8  of           21
+ starting wrf task           13  of           21
+ starting wrf task           20  of           21
+1380768.33user 24516.88system 18:35:40elapsed 2099%CPU (0avgtext+0avgdata 186032maxresident)k
+20532040inputs+245868256outputs (9major+864319248minor)pagefaults 0swaps
+ starting wrf task            3  of            8
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+8766.03user 390.72system 20:18.79elapsed 751%CPU (0avgtext+0avgdata 206716maxresident)k
+118139192inputs+20736624outputs (335major+12736356minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           11  of           21
+ starting wrf task           13  of           21
+ starting wrf task           16  of           21
+ starting wrf task           18  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task           10  of           21
+ starting wrf task           12  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           17  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+1409130.93user 25255.95system 18:58:46elapsed 2099%CPU (0avgtext+0avgdata 185868maxresident)k
+20594720inputs+245877520outputs (848major+775422529minor)pagefaults 0swaps
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+ starting wrf task            0  of            8
+8417.90user 379.69system 19:30.80elapsed 751%CPU (0avgtext+0avgdata 206620maxresident)k
+116555712inputs+20758008outputs (23major+12855843minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+1414256.27user 26084.78system 19:03:30elapsed 2099%CPU (0avgtext+0avgdata 185748maxresident)k
+20536784inputs+245872680outputs (9major+905930896minor)pagefaults 0swaps
+ starting wrf task            3  of            8
+ starting wrf task            7  of            8
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+26187.01user 1111.09system 1:03:20elapsed 718%CPU (0avgtext+0avgdata 206596maxresident)k
+118137408inputs+20741744outputs (356major+13200758minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            8  of           21
+ starting wrf task           12  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            7  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           13  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+1461263.94user 27009.52system 19:41:34elapsed 2099%CPU (0avgtext+0avgdata 186176maxresident)k
+20575344inputs+245883976outputs (865major+1093184833minor)pagefaults 0swaps
+ starting wrf task            1  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+ starting wrf task            0  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+7907.32user 353.00system 18:16.65elapsed 753%CPU (0avgtext+0avgdata 206836maxresident)k
+118097472inputs+20752064outputs (9major+12775907minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           19  of           21
+ starting wrf task            3  of           21
+ starting wrf task           14  of           21
+ starting wrf task           18  of           21
+ starting wrf task           20  of           21
+1437975.74user 26141.93system 19:22:24elapsed 2099%CPU (0avgtext+0avgdata 186364maxresident)k
+20537952inputs+245879920outputs (7major+1015975193minor)pagefaults 0swaps
+ starting wrf task            5  of            8
+ starting wrf task            4  of            8
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            3  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+ starting wrf task            2  of            8
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+Command exited with non-zero status 1
+0.91user 0.90system 0:00.28elapsed 642%CPU (0avgtext+0avgdata 156036maxresident)k
+35952inputs+1712outputs (297major+278668minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            6  of           21
+ starting wrf task           14  of           21
+ starting wrf task           19  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           20  of           21
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+Command exited with non-zero status 1
+2.35user 1.81system 0:00.23elapsed 1773%CPU (0avgtext+0avgdata 72400maxresident)k
+32104inputs+504outputs (446major+289045minor)pagefaults 0swaps
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+Command exited with non-zero status 1
+0.85user 0.75system 0:00.21elapsed 744%CPU (0avgtext+0avgdata 152596maxresident)k
+8inputs+1704outputs (0major+270980minor)pagefaults 0swaps
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task           11  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           20  of           21
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           12  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           19  of           21
+ starting wrf task           18  of           21
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+Command exited with non-zero status 1
+2.59user 1.38system 0:00.21elapsed 1874%CPU (0avgtext+0avgdata 69924maxresident)k
+8inputs+512outputs (0major+279225minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            7  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+7440.44user 332.35system 17:10.03elapsed 754%CPU (0avgtext+0avgdata 212268maxresident)k
+114360720inputs+20732584outputs (68major+13231681minor)pagefaults 0swaps
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task           11  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task            0  of           21
+ starting wrf task            1  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task           10  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task            2  of           21
+ starting wrf task            9  of           21
+ starting wrf task           16  of           21
+ starting wrf task           20  of           21
+1389570.38user 26104.30system 18:43:56elapsed 2099%CPU (0avgtext+0avgdata 180096maxresident)k
+20601848inputs+232769848outputs (348major+1009100365minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            2  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+7528.58user 336.05system 17:22.27elapsed 754%CPU (0avgtext+0avgdata 207432maxresident)k
+117237120inputs+20745984outputs (12major+13315606minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           15  of           21
+ starting wrf task           19  of           21
+ starting wrf task            1  of           21
+ starting wrf task            5  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           20  of           21
+1393621.68user 26245.64system 18:47:17elapsed 2099%CPU (0avgtext+0avgdata 185828maxresident)k
+20589312inputs+246386640outputs (26major+1035513854minor)pagefaults 0swaps
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+7812.35user 346.68system 18:00.47elapsed 755%CPU (0avgtext+0avgdata 207252maxresident)k
+117075408inputs+20731504outputs (8major+12803573minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+ starting wrf task            2  of            8
+7533.04user 338.27system 17:22.76elapsed 754%CPU (0avgtext+0avgdata 206848maxresident)k
+117062376inputs+20731376outputs (11major+12926175minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            9  of           21
+ starting wrf task           16  of           21
+ starting wrf task           20  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           17  of           21
+ starting wrf task           19  of           21
+ starting wrf task           18  of           21
+1528499.05user 29428.81system 20:36:51elapsed 2099%CPU (0avgtext+0avgdata 187528maxresident)k
+20586520inputs+246442192outputs (19major+962437570minor)pagefaults 0swaps
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+ starting wrf task            0  of            8
+ starting wrf task            3  of            8
+7657.52user 338.74system 17:38.90elapsed 755%CPU (0avgtext+0avgdata 206872maxresident)k
+117066520inputs+20752144outputs (10major+13058912minor)pagefaults 0swaps
+ starting wrf task            1  of           21
+ starting wrf task            9  of           21
+ starting wrf task           14  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task            0  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+1531020.97user 30009.99system 20:39:20elapsed 2099%CPU (0avgtext+0avgdata 187436maxresident)k
+20573960inputs+246436792outputs (11major+954028661minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            4  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            5  of            8
+23340.60user 1746.49system 54:06.86elapsed 772%CPU (0avgtext+0avgdata 459472maxresident)k
+336670440inputs+35259600outputs (40major+432459135minor)pagefaults 0swaps
+ starting wrf task            0  of           25
+ starting wrf task            1  of           25
+ starting wrf task            2  of           25
+ starting wrf task            3  of           25
+ starting wrf task            4  of           25
+ starting wrf task            5  of           25
+ starting wrf task            6  of           25
+ starting wrf task            7  of           25
+ starting wrf task            8  of           25
+ starting wrf task            9  of           25
+ starting wrf task           10  of           25
+ starting wrf task           11  of           25
+ starting wrf task           12  of           25
+ starting wrf task           13  of           25
+ starting wrf task           14  of           25
+ starting wrf task           15  of           25
+ starting wrf task           16  of           25
+ starting wrf task           17  of           25
+ starting wrf task           18  of           25
+ starting wrf task           19  of           25
+ starting wrf task           20  of           25
+ starting wrf task           21  of           25
+ starting wrf task           22  of           25
+ starting wrf task           23  of           25
+ starting wrf task           24  of           25
+[mpiexec@agr-2718-pt640] Sending Ctrl-C to processes as requested
+[mpiexec@agr-2718-pt640] Press Ctrl-C again to force abort
+7390019.82user 117891.81system 83:26:38elapsed 2499%CPU (0avgtext+0avgdata 338584maxresident)k
+29097488inputs+579624176outputs (892major+3117521110minor)pagefaults 0swaps
+ starting wrf task            0  of            2
+ starting wrf task            1  of            2
+[mpiexec@agr-2718-pt640] Sending Ctrl-C to processes as requested
+[mpiexec@agr-2718-pt640] Press Ctrl-C again to force abort
+4.72user 1.21system 0:03.02elapsed 196%CPU (0avgtext+0avgdata 1186288maxresident)k
+8inputs+115168outputs (0major+588063minor)pagefaults 0swaps
+ starting wrf task            0  of            2
+ starting wrf task            1  of            2
+663.05user 46.77system 6:48.53elapsed 173%CPU (0avgtext+0avgdata 1225048maxresident)k
+48257168inputs+5435240outputs (0major+5569059minor)pagefaults 0swaps
+ starting wrf task            2  of           25
+ starting wrf task            3  of           25
+ starting wrf task            4  of           25
+ starting wrf task            5  of           25
+ starting wrf task            7  of           25
+ starting wrf task            8  of           25
+ starting wrf task           10  of           25
+ starting wrf task           11  of           25
+ starting wrf task           12  of           25
+ starting wrf task           13  of           25
+ starting wrf task           16  of           25
+ starting wrf task           19  of           25
+ starting wrf task           20  of           25
+ starting wrf task           24  of           25
+ starting wrf task            0  of           25
+ starting wrf task            1  of           25
+ starting wrf task            6  of           25
+ starting wrf task            9  of           25
+ starting wrf task           14  of           25
+ starting wrf task           15  of           25
+ starting wrf task           17  of           25
+ starting wrf task           18  of           25
+ starting wrf task           21  of           25
+ starting wrf task           22  of           25
+ starting wrf task           23  of           25
+64756.96user 975.84system 43:50.17elapsed 2499%CPU (0avgtext+0avgdata 217568maxresident)k
+640072inputs+4737368outputs (277major+26385391minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+[mpiexec@agr-2718-pt640] Sending Ctrl-C to processes as requested
+[mpiexec@agr-2718-pt640] Press Ctrl-C again to force abort
+35.25user 5.99system 0:05.22elapsed 790%CPU (0avgtext+0avgdata 457792maxresident)k
+280inputs+411560outputs (2major+1460249minor)pagefaults 0swaps
+ starting wrf task            0  of           25
+ starting wrf task            3  of           25
+ starting wrf task            4  of           25
+ starting wrf task            5  of           25
+ starting wrf task            6  of           25
+ starting wrf task            7  of           25
+ starting wrf task            8  of           25
+ starting wrf task           10  of           25
+ starting wrf task           11  of           25
+ starting wrf task           12  of           25
+ starting wrf task           13  of           25
+ starting wrf task           14  of           25
+ starting wrf task           15  of           25
+ starting wrf task           16  of           25
+ starting wrf task           17  of           25
+ starting wrf task           18  of           25
+ starting wrf task           19  of           25
+ starting wrf task           20  of           25
+ starting wrf task           21  of           25
+ starting wrf task           22  of           25
+ starting wrf task           24  of           25
+ starting wrf task            1  of           25
+ starting wrf task            2  of           25
+ starting wrf task            9  of           25
+ starting wrf task           23  of           25
+[mpiexec@agr-2718-pt640] Sending Ctrl-C to processes as requested
+[mpiexec@agr-2718-pt640] Press Ctrl-C again to force abort
+34.73user 4.44system 0:01.81elapsed 2157%CPU (0avgtext+0avgdata 138652maxresident)k
+880inputs+568outputs (4major+635932minor)pagefaults 0swaps
+ starting wrf task            7  of            8
+ starting wrf task            0  of            8
+ starting wrf task            2  of            8
+ starting wrf task            5  of            8
+ starting wrf task            1  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            6  of            8
+[mpiexec@agr-2718-pt640] Sending Ctrl-C to processes as requested
+[mpiexec@agr-2718-pt640] Press Ctrl-C again to force abort
+12.32user 2.58system 0:01.88elapsed 791%CPU (0avgtext+0avgdata 425036maxresident)k
+0inputs+4672outputs (0major+798415minor)pagefaults 0swaps
+ starting wrf task            0  of           25
+ starting wrf task            1  of           25
+ starting wrf task            2  of           25
+ starting wrf task            3  of           25
+ starting wrf task            4  of           25
+ starting wrf task            5  of           25
+ starting wrf task            6  of           25
+ starting wrf task            7  of           25
+ starting wrf task            8  of           25
+ starting wrf task            9  of           25
+ starting wrf task           11  of           25
+ starting wrf task           13  of           25
+ starting wrf task           14  of           25
+ starting wrf task           15  of           25
+ starting wrf task           16  of           25
+ starting wrf task           18  of           25
+ starting wrf task           19  of           25
+ starting wrf task           20  of           25
+ starting wrf task           21  of           25
+ starting wrf task           22  of           25
+ starting wrf task           23  of           25
+ starting wrf task           10  of           25
+ starting wrf task           12  of           25
+ starting wrf task           17  of           25
+ starting wrf task           24  of           25
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+Command exited with non-zero status 1
+4.45user 2.51system 0:00.31elapsed 2213%CPU (0avgtext+0avgdata 108288maxresident)k
+0inputs+576outputs (0major+575207minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+ starting wrf task            4  of            8
+[mpiexec@agr-2718-pt640] Sending Ctrl-C to processes as requested
+[mpiexec@agr-2718-pt640] Press Ctrl-C again to force abort
+5.77user 2.46system 0:01.04elapsed 787%CPU (0avgtext+0avgdata 347348maxresident)k
+0inputs+496outputs (0major+785642minor)pagefaults 0swaps
+[mpiexec@agr-2718-pt640] Sending Ctrl-C to processes as requested
+[mpiexec@agr-2718-pt640] Press Ctrl-C again to force abort
+2.18user 0.07system 0:00.12elapsed 1885%CPU (0avgtext+0avgdata 5404maxresident)k
+0inputs+0outputs (0major+9537minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+120.18user 11.53system 0:16.90elapsed 779%CPU (0avgtext+0avgdata 459208maxresident)k
+1109608inputs+553672outputs (0major+3202167minor)pagefaults 0swaps
+ starting wrf task            0  of           25
+ starting wrf task            1  of           25
+ starting wrf task            3  of           25
+ starting wrf task            4  of           25
+ starting wrf task            5  of           25
+ starting wrf task            6  of           25
+ starting wrf task            7  of           25
+ starting wrf task            8  of           25
+ starting wrf task            9  of           25
+ starting wrf task           10  of           25
+ starting wrf task           11  of           25
+ starting wrf task           12  of           25
+ starting wrf task           14  of           25
+ starting wrf task           15  of           25
+ starting wrf task           16  of           25
+ starting wrf task           17  of           25
+ starting wrf task           18  of           25
+ starting wrf task            2  of           25
+ starting wrf task           13  of           25
+ starting wrf task           19  of           25
+ starting wrf task           20  of           25
+ starting wrf task           24  of           25
+ starting wrf task           21  of           25
+ starting wrf task           22  of           25
+ starting wrf task           23  of           25
+1882.47user 33.12system 1:16.71elapsed 2497%CPU (0avgtext+0avgdata 187388maxresident)k
+0inputs+364648outputs (0major+1761026minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            2  of            8
+ starting wrf task            4  of            8
+ starting wrf task            6  of            8
+ starting wrf task            1  of            8
+ starting wrf task            3  of            8
+ starting wrf task            5  of            8
+ starting wrf task            7  of            8
+94.71user 10.12system 0:13.18elapsed 795%CPU (0avgtext+0avgdata 459696maxresident)k
+0inputs+553680outputs (0major+3050107minor)pagefaults 0swaps
+ starting wrf task            0  of           25
+ starting wrf task            1  of           25
+ starting wrf task            2  of           25
+ starting wrf task            3  of           25
+ starting wrf task            4  of           25
+ starting wrf task            5  of           25
+ starting wrf task            6  of           25
+ starting wrf task            7  of           25
+ starting wrf task            8  of           25
+ starting wrf task            9  of           25
+ starting wrf task           10  of           25
+ starting wrf task           11  of           25
+ starting wrf task           12  of           25
+ starting wrf task           13  of           25
+ starting wrf task           14  of           25
+ starting wrf task           15  of           25
+ starting wrf task           16  of           25
+ starting wrf task           17  of           25
+ starting wrf task           18  of           25
+ starting wrf task           19  of           25
+ starting wrf task           20  of           25
+ starting wrf task           22  of           25
+ starting wrf task           24  of           25
+ starting wrf task           23  of           25
+ starting wrf task           21  of           25
+1889.88user 36.03system 1:17.12elapsed 2497%CPU (0avgtext+0avgdata 187160maxresident)k
+0inputs+364552outputs (0major+1971679minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            4  of            8
+ starting wrf task            3  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+6562.69user 293.63system 15:09.96elapsed 753%CPU (0avgtext+0avgdata 182456maxresident)k
+93021480inputs+18864728outputs (0major+10155808minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            6  of           21
+ starting wrf task           11  of           21
+ starting wrf task           14  of           21
+ starting wrf task           15  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task           20  of           21
+784649.55user 13750.13system 10:34:17elapsed 2097%CPU (0avgtext+0avgdata 192348maxresident)k
+18773624inputs+191849744outputs (343major+525328679minor)pagefaults 0swaps
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            5  of            8
+ starting wrf task            7  of            8
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            4  of            8
+ starting wrf task            6  of            8
+6571.95user 294.81system 15:10.68elapsed 754%CPU (0avgtext+0avgdata 181536maxresident)k
+91991128inputs+18862416outputs (342major+10063616minor)pagefaults 0swaps
+ starting wrf task            0  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            6  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task            1  of           21
+ starting wrf task            5  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task           14  of           21
+ starting wrf task           20  of           21
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+Command exited with non-zero status 1
+1.19user 0.06system 0:00.08elapsed 1461%CPU (0avgtext+0avgdata 5980maxresident)k
+2640inputs+344outputs (86major+10852minor)pagefaults 0swaps
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            4  of            8
+ starting wrf task            5  of            8
+ starting wrf task            2  of            8
+ starting wrf task            3  of            8
+ starting wrf task            6  of            8
+ starting wrf task            7  of            8
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+Command exited with non-zero status 1
+0.17user 0.07system 0:00.05elapsed 488%CPU (0avgtext+0avgdata 7176maxresident)k
+400inputs+296outputs (4major+4786minor)pagefaults 0swaps
+ starting wrf task            1  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            5  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            8  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           17  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task            0  of           21
+ starting wrf task            9  of           21
+ starting wrf task           14  of           21
+ starting wrf task           20  of           21
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   EXIT CODE: 1
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+Command exited with non-zero status 1
+0.65user 0.16system 0:00.05elapsed 1376%CPU (0avgtext+0avgdata 5984maxresident)k
+0inputs+336outputs (0major+10713minor)pagefaults 0swaps
+ starting wrf task            3  of            8
+ starting wrf task            5  of            8
+ starting wrf task            6  of            8
+ starting wrf task            0  of            8
+ starting wrf task            1  of            8
+ starting wrf task            2  of            8
+ starting wrf task            4  of            8
+ starting wrf task            7  of            8
+6472.29user 290.14system 14:56.42elapsed 754%CPU (0avgtext+0avgdata 182352maxresident)k
+91775608inputs+18862304outputs (0major+9909502minor)pagefaults 0swaps
+ starting wrf task            1  of           21
+ starting wrf task            8  of           21
+ starting wrf task           15  of           21
+ starting wrf task           16  of           21
+ starting wrf task           18  of           21
+ starting wrf task           19  of           21
+ starting wrf task            0  of           21
+ starting wrf task            2  of           21
+ starting wrf task            3  of           21
+ starting wrf task            4  of           21
+ starting wrf task            6  of           21
+ starting wrf task            7  of           21
+ starting wrf task            9  of           21
+ starting wrf task           10  of           21
+ starting wrf task           11  of           21
+ starting wrf task           12  of           21
+ starting wrf task           13  of           21
+ starting wrf task           14  of           21
+ starting wrf task           17  of           21
+ starting wrf task           20  of           21
+ starting wrf task            5  of           21
+660442.76user 13213.48system 8:55:07elapsed 2098%CPU (0avgtext+0avgdata 201464maxresident)k
+18775296inputs+205806408outputs (945major+500448164minor)pagefaults 0swaps
