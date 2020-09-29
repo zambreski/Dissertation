@@ -7,6 +7,8 @@ The file namelist.input section &physics has an added irrigation parameter opt_i
 
 The code is only written to simulate single growing seasons initalized after Jan 1. However, it could easily be modified for multiple growing seasons or any alternative purposes. We highly encourage this and hope you may find it useful. 
 
+The major modifications can be found module_sf_noahmpdry.F and module_sf_noahdry.F under the physics directory.
+
 opt_irrig = 0,
 
 DEFAULT. Apply no irrigation to any grid cell. 
