@@ -7,7 +7,7 @@ The file namelist.input section *&physics* has an added irrigation parameter opt
 
 The code is only written to simulate single growing seasons initalized after Jan 1 (northern hemisphere). However, it could easily be modified for multiple growing seasons or alternative purposes. We highly encourage this and hope you may find the modified code useful. 
 
-The major code modifications can be found in module_sf_noahmpdry.F and module_sf_noahdry.F under the physics directory.
+The major code modifications can be found in *module_sf_noahmpdry.F* and *module_sf_noahdry.F* under the physics directory.
 
 opt_irrig = 0,
 
@@ -31,6 +31,6 @@ Apply irrigation after May 15 for grid cells with a dominant land type of irriga
 
 ---
 
-Link to dissertation: TBD 
+Link to online dissertation: TBD 
 
-Link to original WRF model respoitory: https://github.com/wrf-model/WRF
+Link to original WRF model respoitory and description: https://github.com/wrf-model/WRF
