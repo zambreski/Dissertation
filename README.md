@@ -3,9 +3,9 @@ This repository contains modified fortran code for running the Weather Research 
 
 It must be configured and compiled similarly to the original WRF model v 4.0. We breifly describe critical differences between the NCAR version and the version in this repository below. 
 
-The file namelist.input section &physics has an added irrigation parameter opt_irrig. This parameter has a default of 0, which is apply no irrigation, and only works for the Noah land surface model with mosaic option and the Noah-MP model. The land use categories must be based on USGS 24 category data, in particular irrigated cropland must be designated as category '3'. Running WRF using another land surface model such as CLM will not invoke this parameter.
+The file namelist.input section *&physics* has an added irrigation parameter opt_irrig. This parameter has a default of 0, which is apply no irrigation, and only works for the Noah land surface model with mosaic option and the Noah-MP model. The land use categories must be based on USGS 24-category data, in particular, irrigated cropland must be designated as category **3**. Running WRF using another land surface model such as CLM will not use this parameter.
 
-The code is only written to simulate single growing seasons initalized after Jan 1. However, it could easily be modified for multiple growing seasons or alternative purposes. We highly encourage this and hope you may find the modified code useful. 
+The code is only written to simulate single growing seasons initalized after Jan 1 (northern hemisphere). However, it could easily be modified for multiple growing seasons or alternative purposes. We highly encourage this and hope you may find the modified code useful. 
 
 The major code modifications can be found in module_sf_noahmpdry.F and module_sf_noahdry.F under the physics directory.
 
