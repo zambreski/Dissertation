@@ -9,6 +9,8 @@ The code is only written to simulate single growing seasons initalized after Jan
 
 The major code modifications can be found in *module_sf_noahmpdry.F* and *module_sf_noahdry.F* under the physics directory.
 
+## Namelist options (&physics)
+
 opt_irrig = 0,
 
 DEFAULT. Apply no irrigation to any grid cell. 
