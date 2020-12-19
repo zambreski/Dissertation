@@ -33,6 +33,6 @@ Apply irrigation after May 15 for grid cells with a dominant land type of irriga
 
 ---
 
-Link to online dissertation: TBD 
+Link to online dissertation: https://krex.k-state.edu/dspace/handle/2097/40906 
 
 Link to original WRF model respoitory and description: https://github.com/wrf-model/WRF
