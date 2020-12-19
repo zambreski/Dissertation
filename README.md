@@ -1,4 +1,4 @@
-# Dissertation
+# Dissertation: WRF-Irrigation Module
 This repository contains modified fortran code for running the Weather Research and Forecasting Model v 4.0. The model has been modified to include methods for irrigation in two land surface models based on land use categories.
 
 It must be configured and compiled similarly to the original WRF model v 4.0. We briefly describe critical differences between the NCAR version and the version in this repository below. 
