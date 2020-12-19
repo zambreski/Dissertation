@@ -9,6 +9,12 @@ The code is only written to simulate single growing seasons initalized after Jan
 
 The major code modifications can be found in *module_sf_noahmpdry.F* and *module_sf_noahdry.F* under the physics (/phys/) directory.
 
+---
+
+Link to online dissertation (Nov 2020): https://krex.k-state.edu/dspace/handle/2097/40906 
+
+Link to original WRF model repository and description: https://github.com/wrf-model/WRF
+
 ## Namelist options (&physics)
 
 opt_irrig = 0,
@@ -32,7 +38,3 @@ Noah-MP:
 Apply irrigation after May 15 for grid cells with a dominant land type of irrigation if the soil moisture drops to wilting point plus 20% of the plant available water. Apply at a constant rate of 20 mm hr-1 for two hours as non-convective precipitation. Entire grid point receives application.
 
 ---
-
-Link to online dissertation: https://krex.k-state.edu/dspace/handle/2097/40906 
-
-Link to original WRF model respoitory and description: https://github.com/wrf-model/WRF
