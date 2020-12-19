@@ -9,7 +9,7 @@ The code is only written to simulate single growing seasons initalized after Jan
 
 The major code modifications can be found in *module_sf_noahmpdry.F* and *module_sf_noahdry.F* under the physics (/phys/) directory.
 
-References:
+References:<br/>
 Link to online dissertation (Nov 2020): https://krex.k-state.edu/dspace/handle/2097/40906 
 
 Link to original WRF model repository and description: https://github.com/wrf-model/WRF
