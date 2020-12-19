@@ -12,7 +12,7 @@ The major code modifications can be found in *module_sf_noahmpdry.F* and *module
 *References*:<br/>
 Link to online dissertation (Nov 2020): https://krex.k-state.edu/dspace/handle/2097/40906 <br/>
 Link to original WRF model repository and description: https://github.com/wrf-model/WRF
-<br/>
+<br/><br/>
 ## Namelist options (&physics)
 
 opt_irrig = 0,
