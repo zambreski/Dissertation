@@ -1,7 +1,7 @@
 # Dissertation
 This repository contains modified fortran code for running the Weather Research and Forecasting Model v 4.0. The model has been modified to include methods for irrigation in two land surface models based on land use categories.
 
-It must be configured and compiled similarly to the original WRF model v 4.0. We breifly describe critical differences between the NCAR version and the version in this repository below. 
+It must be configured and compiled similarly to the original WRF model v 4.0. We briefly describe critical differences between the NCAR version and the version in this repository below. 
 
 The file namelist.input section *&physics* has an added irrigation parameter opt_irrig. This parameter has a default of 0, which is apply no irrigation, and only works for the Noah land surface model with mosaic option and the Noah-MP model. The land use categories must be based on USGS 24-category data, in particular, irrigated cropland must be designated as category **3**. Running WRF using another land surface model such as CLM will not use this parameter.
 
